@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+config/__pycache__/
+handlers/__pycache__/
+handlers/command/__pycache__/
+.env
